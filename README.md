@@ -22,7 +22,7 @@ This selfbot was designed to automatically catch Pokemon spawned on Discord by P
 2. You can get a special mention of your username (Discord and Github) in this Readme (optional)
 
 # Disclaimer
-1. I (and others contributors) are not responsible for any actions you perform using it. Use it at you own risk.
+1. I (and others contributors) are not responsible for any actions you perform using it. Use it at your own risk.
 2. Selfbots violate Discord TOS and PokeTwo TOS and if you get caught using it, you will get banned. Be careful about how you use the bot.
 3. I would not recommend use this self-bot in public servers (especially Official PokeTwo Servers)
 
